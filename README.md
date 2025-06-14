@@ -38,3 +38,46 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
+
+
+## 🔥 Featured Projects
+
+### 🌐 Web Applications
+
+#### 🟩 RENTINEL  
+> Property rental platform with multi-role dashboards  
+> `Spring Boot` `React` `SQL Server` `JWT`  
+🔗 [View Code](#)
+
+---
+
+#### 🟧 GAME EXPLORER  
+> Browse and search games with trailers and reviews  
+> `Next.js` `Tailwind` `Express` `SQL`  
+🔗 [Live Demo](#)
+
+---
+
+### 💻 Desktop Applications
+
+#### 🔷 VOLTMASTER  
+> Smart scheduling for optimized home power usage  
+> `C++` `WinForms` `SQLite`  
+🔗 [View Code](#)
+
+---
+
+#### 🔷 JOURNEZ  
+> Offline bus ticket booking system  
+> `C++` `WinForms` `File Handling`  
+🔗 [View Code](#)
+
+---
+
+### 🎮 Games
+
+#### 🔷 QUEST RUNNER  
+> Fast-paced 2D platformer game  
+> `C++` `SFML` `GameDev`  
+🔗 [View Code](#)
+
