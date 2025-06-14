@@ -44,40 +44,35 @@
 
 ### 🌐 Web Applications
 
-#### 🟩 RENTINEL  
-> Property rental platform with multi-role dashboards  
-> `Spring Boot` `React` `SQL Server` `JWT`  
-🔗 [View Code](#)
+#### 🟩 **RENTINEL**  
+Property rental platform with multi-role dashboards  
+`Spring Boot` `React` `SQL Server` `JWT`  
+[View Code](#)
 
----
-
-#### 🟧 GAME EXPLORER  
-> Browse and search games with trailers and reviews  
-> `Next.js` `Tailwind` `Express` `SQL`  
-🔗 [Live Demo](#)
+#### ⬛ **GAME EXPLORER**  
+Browse and search games with trailers and reviews  
+`Next.js` `Tailwind` `Express` `SQL`  
+[Live Demo](#)
 
 ---
 
 ### 💻 Desktop Applications
 
-#### 🔷 VOLTMASTER  
-> Smart scheduling for optimized home power usage  
-> `C++` `WinForms` `SQLite`  
-🔗 [View Code](#)
+#### 🔷 **VOLTMASTER**  
+Smart scheduling for optimized home power usage  
+`C++` `WinForms` `SQLite`  
+[View Code](#)
 
----
-
-#### 🔷 JOURNEZ  
-> Offline bus ticket booking system  
-> `C++` `WinForms` `File Handling`  
-🔗 [View Code](#)
+#### 🔷 **JOURNEZ**  
+Offline bus ticket booking system  
+`C++` `WinForms` `File Handling`  
+[View Code](#)
 
 ---
 
 ### 🎮 Games
 
-#### 🔷 QUEST RUNNER  
-> Fast-paced 2D platformer game  
-> `C++` `SFML` `GameDev`  
-🔗 [View Code](#)
-
+#### 🎮 **QUEST RUNNER**  
+Fast-paced 2D platformer game  
+`C++` `SFML` `GameDev`  
+[View Code](#)
